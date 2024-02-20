@@ -1,3 +1,3 @@
 # git_test
-practice repo
+practice repo on odin project
 hello odin
